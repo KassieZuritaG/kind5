@@ -1,0 +1,7 @@
+$ kind get clusters
+kind
+
+$ kind get nodes
+kind-control-plane
+kind-worker
+kind-worker2
